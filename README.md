@@ -255,5 +255,4 @@ In this project, a ContainerRequestFilter and ContainerResponseFilter are used i
 
 This maintains the resource classes business logic-oriented and the filter addresses the shared infrastructure issue.
 
-# SmartCampusAPI
 
